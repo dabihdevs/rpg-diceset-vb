@@ -5,6 +5,6 @@ This was one of the first applications I created in Visual Basic. Sadly the orig
 
 The RPG_DiceSet.exe will run the application.
 
-In the code/ folder I uploaded the code I had written for the application ("Dice.vb", "Form1.vb") plus the component initialization ("Form1.Designer.vb").
+In the code/ folder I uploaded the code I had written for the application ("Dice.vb", "Form1.vb") plus the component initialization ("Form1.Designer.vb") where all the components names are stored.
 
 I created this application using Visual Studio 2022 on Windows 10.
